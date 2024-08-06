@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "boundary",
+
+  "files.autoSave": "onFocusChange",
+  "files.insertFinalNewline": true,
+
+  "remote.autoForwardPortsSource": "hybrid",
+  "terminal.integrated.fontFamily": "MesloLGMDZ Nerd Font Mono Regular",
+  "terminal.integrated.fontSize": 12,
+
+  "workbench.colorTheme": "The Best Theme",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.startupEditor": "none",
+  "workbench.sideBar.location": "right",
+
+  "[python]": {
+    "editor.rulers": [88]
+  }
+}
